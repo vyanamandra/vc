@@ -11,7 +11,7 @@ Venus Capture
 
 > Finds the window id of the application from all desktops & screens. ['Zoom Meeting' in my program for testing.]
 
-> Automatically saves it to the ~/Documents folder.
+> Automatically saves a screencapture to the ~/Documents folder.
 
 > At the end of the setup, we will have a short command `vc` that you can use to capture the window you want.
 
@@ -28,7 +28,7 @@ Venus Capture
   
     [Ref: https://pypi.org/project/pyobjc-framework-Quartz/]
 
-> 5. Say on your MacOS, run the following command to save it to your `~/.zshrc`
+> 5. Say, on your MacOS, run the following command to save it to your `~/.zshrc`
 
     `git clone https://github.com/vyanamandra/vc; ./install-as-alias`
     
