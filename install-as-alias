@@ -1,2 +1,2 @@
-a_string=$(echo "'. ${PWD}/venv/bin/activate; ${PWD}/vc'")
+a_string=$(echo "'. ${PWD}/../venv/bin/activate; ${PWD}/vc'")
 echo alias\ vc=${a_string} >> ~/.zshrc
