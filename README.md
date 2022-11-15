@@ -31,13 +31,29 @@ Venus Capture
 > 5. Say, on your MacOS, run the following command to save it to your `~/.zshrc`
 
 `git clone https://github.com/vyanamandra/vc; cd vc; chmod +x vc install-as-alias; ./install-as-alias`
-    
+
+
+# Permissions needed: 
+
+> 'System Preferences' -> 'Security & Privacy' -> 'Screen Recording' -> '+' icon -> Add the client program there.
+        
+    Note: Client program for me is -> 'iterm' or 'terminal' since I use 'iterm' sometimes and 'terminal' sometimes.
+        Essentially, you will add a program you use to run this `*vc*` command.
 
 # Taking screencaptures is now easy. 
 
 > Just type `vc` and your captures are saved under `~/Documents`
 
-    Note: Remember to source your ~/.zshrc using `. ~/.zshrc` or just log out of the terminal and log back in.
+    Note: 
+        
+        Remember to source your ~/.zshrc using `. ~/.zshrc` or just log out of the terminal and log back in.
+        
+# Please note:
+
+> For Zoom Meeting:
+    The screen share of the participant is captured.
+
+
 
 
   
