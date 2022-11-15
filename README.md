@@ -24,7 +24,7 @@ Venus Capture
 
 > 3. Start using the newly created virtualenv `venv` using - `. venv/bin/activate`
 
-> 4. Install the Quartz python library using - `pip install -y pyobjc-framework-Quartz` 
+> 4. Install the Quartz python library using - `pip install pyobjc-framework-Quartz` 
   
     [Ref: https://pypi.org/project/pyobjc-framework-Quartz/]
 
