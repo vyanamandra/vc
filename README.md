@@ -30,7 +30,7 @@ Venus Capture
 
 > 5. Say, on your MacOS, run the following command to save it to your `~/.zshrc`
 
-    `git clone https://github.com/vyanamandra/vc; cd vc; chmod +x vc install-as-alias; ./install-as-alias`
+`git clone https://github.com/vyanamandra/vc; cd vc; chmod +x vc install-as-alias; ./install-as-alias`
     
 
 # Taking screencaptures is now easy. 
