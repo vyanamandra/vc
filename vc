@@ -23,6 +23,7 @@ for window in windows_list:
                                                                       window.valueForKey_('kCGWindowNumber')))
         capture_process = subprocess.run(["/usr/sbin/screencapture",
                                           "-o",
+                                          "-x",                                          
                                           "-l{}".format(window.valueForKey_('kCGWindowNumber')),
                                           image_save_location])
         if capture_process.returncode == 0:
