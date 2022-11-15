@@ -20,7 +20,7 @@ Venus Capture
 
 > 1. Installing virtualenv using `pip3 install virtualenv`
 
-> 2. Create a virtualenv using - `` virtualenv venv --python=`which python3` `` 
+> 2. Create a virtualenv using - `` python -m virtualenv venv --python=`which python3` `` 
 
 > 3. Start using the newly created virtualenv `venv` using - `. venv/bin/activate`
 
